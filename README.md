@@ -1,4 +1,4 @@
-# “Nano-Filter”-Integrated AIMS with Machine Learning: Fast Exhaled Breath Analysis for Lung Cancer Screening
+# “Nano-Filter”- Integrated AIMS with Machine Learning: Direct Exhaled Breath Analysis for Lung Cancer Screening
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
